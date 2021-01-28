@@ -224,7 +224,7 @@ msgstr "<strong>Diagnóstico do site</strong> %mdash; informa quaisquer problema
 
 #. translators: %s: Application name.
 #: wp-admin/user-edit.php:874 wp-admin/authorize-application.php:191
-#: wp-admin/js/auth-app.js:87
+#: wp-admin/js/auth-app.js:90
 msgid "Your new password for %s is:"
 msgstr "Sua nova senha para %s é:"
 
@@ -278,25 +278,25 @@ msgstr "Não foi possível localizar %s. Tente uma cidade mais próxima. Por exe
 msgid "Or"
 msgstr "Ou"
 
-#: wp-admin/authorize-application.php:298
+#: wp-admin/authorize-application.php:302
 msgid "You will be returned to the WordPress Dashboard, and no changes will be made."
 msgstr "Você voltará ao painel do WordPress e nenhuma alteração será feita."
 
-#: wp-admin/authorize-application.php:280
+#: wp-admin/authorize-application.php:284
 msgid "No, I do not approve of this connection."
 msgstr "Não, eu não aprovo esta conexão."
 
-#: wp-admin/authorize-application.php:273
+#: wp-admin/authorize-application.php:277
 msgid "You will be given a password to manually enter into the application in question."
 msgstr "Você receberá uma senha para digitar manualmente na aplicação em questão."
 
 #. translators: %s: The URL the user is being redirected to.
-#: wp-admin/authorize-application.php:260
-#: wp-admin/authorize-application.php:294
+#: wp-admin/authorize-application.php:264
+#: wp-admin/authorize-application.php:298
 msgid "You will be sent to %s"
 msgstr "Você será redirecionado para %s"
 
-#: wp-admin/authorize-application.php:246
+#: wp-admin/authorize-application.php:250
 msgid "Yes, I approve of this connection."
 msgstr "Sim, eu aprovo esta conexão."
 
@@ -334,15 +334,15 @@ msgid "Authorize Application"
 msgstr "Autorizar aplicação"
 
 #: wp-admin/user-edit.php:881 wp-admin/authorize-application.php:198
-#: wp-admin/js/auth-app.js:95
+#: wp-admin/js/auth-app.js:98
 msgid "Be sure to save this in a safe location. You will not be able to retrieve it."
 msgstr "Certifique-se de salvar isso em um local seguro. Não será possível recuperá-lo."
 
-#: wp-admin/user-edit.php:747 wp-admin/authorize-application.php:223
+#: wp-admin/user-edit.php:747 wp-admin/authorize-application.php:227
 msgid "WordPress App on My Phone"
 msgstr "Aplicativo WordPress em meu telefone."
 
-#: wp-admin/user-edit.php:746 wp-admin/authorize-application.php:222
+#: wp-admin/user-edit.php:746 wp-admin/authorize-application.php:226
 msgid "New Application Password Name"
 msgstr "Novo nome de senha da aplicação"
 
@@ -8610,11 +8610,11 @@ msgstr "Posições de menu atualizadas."
 msgid "Your latest changes were saved as a revision."
 msgstr "Suas últimas alterações foram salvas como uma revisão."
 
-#: wp-admin/includes/media.php:3428
+#: wp-admin/includes/media.php:3429
 msgid "Audio Codec:"
 msgstr "Codec de áudio:"
 
-#: wp-admin/includes/media.php:3427
+#: wp-admin/includes/media.php:3428
 msgid "Audio Format:"
 msgstr "Formato de áudio:"
 

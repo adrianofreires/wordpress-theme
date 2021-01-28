@@ -25,7 +25,12 @@ h4{font-size: 18px; margin-top: 0;}
 .slide{padding: 25px 0;}
 
 /* Services */
-.services{background: #4c1b1b; padding: 25px 0; color: #fefefe;}
+.services{ background: #4c1b1b; padding: 25px 0; color: #fefefe; }
+.services h1{ text-align: center; color: #fcfae1; text-transform: uppercase; font-size: 28px; }
+.services .widget-wrapper{ text-align: center; }
+.services .widget-wrapper h2{ text-transform: uppercase; font-size: 1.2em; color: #f6e497; font-weight: 200; }
+.services .widget-wrapper:first-child{ padding: 15px 0; }
+.services .widget-wrapper > img{ border: 10px solid #FFF; }
 
 /* Middle Area */
 .middle-area{padding: 25px 0;}
@@ -33,6 +38,14 @@ h4{font-size: 18px; margin-top: 0;}
 
 /* Middle Area Sidebar */
 .sidebar{background: #f6e497; padding: 20px; margin: 0 0 30px;}
+
+/* Middle Area - Portifolio */
+.home .portifolio h1{ color: #4c1b1b; text-transform: uppercase; font-size: 38px; font-weight: bold; }
+.home .portifolio .format-image h2, .home .portifolio .format-video h2, .home .portifolio .format-standard h2 { color: #000; background: transparent; display: inline-block; padding: 10px 0 5px; font-weight: bold; } 
+.home .portifolio .featured h2{ font-size: 35px; }
+.home .portifolio .secondary h2{ font-size: 20px; }
+.home .portifolio .meta-info p{ font-weight: bold; margin-bottom: 0; }
+.home .portifolio span, .portifolio span a{ color: #9c9c9c; font-weight: normal; margin: 0 2px 0 0; }
 
 /* Footer */
 footer{background: #000; padding: 15px 0; color: #fcfae1}
